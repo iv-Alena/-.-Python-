@@ -5,5 +5,7 @@
 Ссылка на основной датасет: https://drive.google.com/drive/u/1/folders/1xHmh3B_m_fv-4DFv3cacwBjP11BDJ1PA 
 
 Ссылка на папку на гугл диск, если что-то пойдет не так и тут незаработает 
+
 Также там находятся все графики и исходные дата сеты
+
 https://drive.google.com/drive/u/1/folders/1xHmh3B_m_fv-4DFv3cacwBjP11BDJ1PA
